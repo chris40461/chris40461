@@ -52,7 +52,7 @@
 <br/>
 
 ## Experience
-- 🔥 부스트캠프 AI Tech 7기 참여
+- 🔥 부스트캠프 AI Tech 7기
 
 <br/>
 
