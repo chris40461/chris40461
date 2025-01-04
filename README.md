@@ -6,6 +6,13 @@
 
 <br/>
 
+## Interest
+- 🌟 LLM Fine-tuning  
+- 🌟 LLM Lightweighting
+- 🌟 Retriever (RAR)
+
+<br/>
+
 ## Skills
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
