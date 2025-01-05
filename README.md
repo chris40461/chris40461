@@ -9,7 +9,7 @@
 ## Interest
 - 🌟 LLM Fine-tuning  
 - 🌟 LLM Lightweighting
-- 🌟 Retriever (RAR)
+- 🌟 Retriever (RAG)
 
 <br/>
 
