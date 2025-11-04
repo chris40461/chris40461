@@ -34,6 +34,7 @@
 ## Projects
 |           | Title                                  | Type  | Role     | Stack       |
 |-----------|----------------------------------------|-------|----------|-------------|
+| 2025.09-        | AI campus                            | Team  | Developer | Python, FastAPI, React |
 | 2025.06-2025.12 | 중학교 기하 수학 문제 유사문제 생성    | Team  | Developer | Python, PyTorch |
 | 2024.11-2024.11 | Generation for NLP                   | Team  | Team Leader, Developer | Python, PyTorch |
 | 2024.11-2024.11 | Data-Centric NLP                     | Team  | Team Leader, Developer | Python, PyTorch |
@@ -58,6 +59,7 @@
 - 🔥 알고리즘 동아리 NPC
 - 🔥 성균관대학교 인공지능 학회 SKKAI 학회
 - 🔥 웅진 씽크빅 소속 중학교 기하 수학 유사문제 출제 산학 프로젝트
+- 🔥 FClab Undergraduate Interns (https://sites.google.com/view/fclab-skku/home?authuser=0)
 
 <br/>
 
