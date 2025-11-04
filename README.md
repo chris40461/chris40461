@@ -64,7 +64,7 @@
 <br/>
 
 ## Contact
-✉️ chris40461@example.com<br/>
+✉️ chris40461@gmail.com<br/>
 🔗 [GitHub 프로필](https://github.com/chris40461)<br/>
 ✏️ [velog](https://velog.io/@chris40461/posts)
 
