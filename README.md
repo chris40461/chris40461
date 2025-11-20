@@ -7,8 +7,8 @@
 <br/>
 
 ## Interest
-- 🌟 LLM Fine-tuning  
-- 🌟 LLM Lightweighting
+- 🌟 AI Agent
+- 🌟 LLM
 - 🌟 Retriever (RAG)
 
 <br/>
