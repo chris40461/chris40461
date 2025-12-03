@@ -34,7 +34,7 @@
 ## Projects
 |           | Title                                  | Type  | Role     | Stack       |
 |-----------|----------------------------------------|-------|----------|-------------|
-| 2025.11-        | Pinsight-AI기반 주식 컨설팅 플랫폼      | Individual  | Developer | Python, FastAPI, React |
+| 2025.11-        | MINT-AI기반 주식 컨설팅 플랫폼      | Individual  | Developer | Python, FastAPI, React |
 | 2025.09-        | AI campus                            | Team  | Developer | Python, FastAPI, React |
 | 2025.06-2025.12 | 중학교 기하 수학 문제 유사문제 생성    | Team  | Developer | Python, PyTorch |
 | 2024.11-2024.11 | Generation for NLP                   | Team  | Team Leader, Developer | Python, PyTorch |
